@@ -9,3 +9,12 @@ p{
 h1{
     font-size: 50px;
 }
+
+.some-class{
+    background-color: grey;
+}
+
+.some-class h1{
+    color: red;
+    font-weight: bold;
+}
